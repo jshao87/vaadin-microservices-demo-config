@@ -5,3 +5,4 @@ hazelcast.max.no.heartbeat.seconds: 6
 admin-application.url: http://localhost:8080/admin/ui/
 
 news-application.url: http://localhost:8080/news/ui/
+ui.split.position: 50
